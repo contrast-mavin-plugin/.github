@@ -1,2 +1,4 @@
-## Complete Software Supply Chain Security
+## Cycode Labs
+### Protecting the World from Software Supply Chain Attacks
+
 ![](/pics/cycode-intg.svg)
